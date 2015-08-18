@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>哈工大E-Learning</name>
 
     <description>
-        Moodle Mobile official app
+      哈尔滨工业大学数字化教学（E-Learning）平台
     </description>
 
     <author href="http://moodle.com" email="juan@moodle.com">
